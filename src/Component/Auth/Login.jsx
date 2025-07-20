@@ -39,7 +39,7 @@ const Login = () => {
             placeholder="Enter password"
             required
           />
-          <button className="rounded-full py-3 px-25 border-none text-xl text-white outline-none bg-violet-400  hover:bg-violet-500 cursor-pointer mt-5">
+          <button className="rounded-full py-3 w-full border-none text-xl text-white outline-none bg-violet-400  hover:bg-violet-500 cursor-pointer mt-5">
             Log in
           </button>
         </form>
