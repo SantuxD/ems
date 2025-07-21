@@ -42,3 +42,4 @@ export const getLocalStorage = (key) => {
    const admin = JSON.parse(localStorage.getItem('admin'));
   console.log(employee , admin);
 };
+
